@@ -1,0 +1,8 @@
+.container {
+  position: relative;
+  max-width: 400px;
+  background: #fff;
+  padding: 28px 32px;
+  border-radius: 18px;
+  font-family: 'Roboto', sans-serif;
+}
